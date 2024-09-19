@@ -4,7 +4,6 @@
 This Python-based ID card generator allows you to create professional ID cards with custom user information, including name, roll number, and more. The tool also supports adding user images, logos, and generating QR codes for additional details. 
 
 ![ID Card Sample](id_card_output.png)
-
 ## Features
 
 - Add personal information like Name, Roll Number, City, Center, and more
