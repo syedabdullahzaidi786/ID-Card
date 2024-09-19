@@ -125,10 +125,3 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-If you find this project helpful or want to contribute, feel free to reach out or open an issue.
-```
-
-### Additional Notes:
-- Replace any placeholder fields like `yourusername` with your actual GitHub username.
-- Make sure to add a sample image or link for the "ID Card Sample" screenshot at the top of the `README.md`.
